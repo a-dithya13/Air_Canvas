@@ -174,6 +174,3 @@ The circular gesture-confirmation buffer and event queue must be verified in the
 
 This project is under development. The core drawing workflow and GUI have been tested locally by the developer. The required data structures and edge cases should be checked against the project specification before marking the project fully complete.
 
-## License
-
-No license has been added yet. Add a license file if you intend to grant others permission to reuse, modify, and distribute the project.
